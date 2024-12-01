@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"sort"
-	"thefjs14/aoc2024/utils"
+	"thefjs14/aoc2024/2024/utils"
 )
 
 func Distances() int {
